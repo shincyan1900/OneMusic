@@ -1,0 +1,21 @@
+html body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    position : absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(236, 236, 236, 0.836);
+
+}
+
+.menu {
+    width: 100%;
+    height: 9%;
+    background-color: white;
+}
+
