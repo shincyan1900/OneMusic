@@ -1,4 +1,2 @@
 # OneMusic
-A online project for music in onedrive.
-___
-咕咕咕，还在学🤣
+A online project for music in onedrive and a **repo for study**..🤣
