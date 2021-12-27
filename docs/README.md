@@ -1,4 +1,5 @@
 # OneMusic Docs
 
-In fact, it's a doc for basic web technologies.
+事实上，这主要是一份关于 web 基础技术的笔记。
 
+!> 若无特别标注，介绍的标签均为一般标签。 
