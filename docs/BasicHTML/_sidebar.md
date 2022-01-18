@@ -3,4 +3,5 @@
   * [- 链接和图片](BasicHTML/链接和图片.md)
   * [- 列表和输入框](BasicHTML/列表和输入框.md)
   * [- 表单和按钮](BasicHTML/表单和按钮.md)
+  * [- 其他](BasicHTML/其他.md)
 
