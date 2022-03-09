@@ -2,7 +2,7 @@
 
 通过 CSS （层叠样式表）可以为网页添加样式。这一节，将介绍 CSS 的格式。下面是对一段 CSS 代码的解释。
 
-<img src="../img/CSSbasic.png" width="100%" height="auto"/>
+<img src="../img/CSSbasic.png" style="width=100%; height: auto;"/>
 
 整个结构被成为**规则集**（通常简称规则）。
 
