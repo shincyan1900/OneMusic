@@ -8,3 +8,4 @@
   * [- CSS 规则集](BasicCSS/CSS规则集.md)
   * [- 选择器](BasicCSS/选择器.md)
   * [- CSS 样式类型及其优先级](BasicCSS/CSS样式类型及其优先级.md)
+  * [- 元素的文本样式](Basic/元素的文本样式.md)
